@@ -1,5 +1,5 @@
 # Bamazon
-An Amazon-like storefront built with MySQL. This CLI app will take in orders from customers and deplete stock from the store's inventory. 
+An Amazon-like storefront built with MySQL--Supernatural version! This CLI app will take in orders from customers and deplete stock from the store's inventory. 
 
 MySQL, Inquirer, and cli-table npm packages were used.
 
